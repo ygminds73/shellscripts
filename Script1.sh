@@ -3,5 +3,5 @@
 echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "Welcome to Young Minds"
-echo "Best class of AWS/DevOps"
-echo "hi my name is avinash varat"
+echo "Best class of AWS/DevOp"
+eccho "my name is avi varat"
