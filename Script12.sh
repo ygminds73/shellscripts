@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 a="abc"
 b="efg"
 
