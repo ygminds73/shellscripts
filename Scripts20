@@ -1,0 +1,12 @@
+#!/bin/bash
+#This script is to for automation 
+sudo -i
+ls -lrt
+aws s3 mb s3://aws-bucket-suhas-data
+aws s3 ls
+cd var/log/
+aws s3 cp auth.log s3://aws-bucket-suhas-data
+aws s3 ls
+cd ..
+echo "complete our automation"
+echo "Please check and feedback"
