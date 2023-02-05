@@ -2,6 +2,8 @@
 #This script is to for automation 
 sudo -i
 ls -lrt
+apt update -y
+apt install awscli -y
 aws s3 mb s3://aws-bucket-suhas-data
 aws s3 ls
 cd var/log/
