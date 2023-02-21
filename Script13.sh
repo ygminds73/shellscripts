@@ -9,7 +9,7 @@ if [ $a != $b ]
 then
  echo "$a != $b : a is not equal to b"
 else
- echo "$a != $b: a is equal to b"
+ echo "$a = $b: a is equal to b"
 fi
 
 if [ $a -lt 100 -a $b -gt 15 ]
