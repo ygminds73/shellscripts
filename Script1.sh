@@ -8,3 +8,8 @@ echo "We are learning git"
 echo "We are done with git"
 echo "We have started our devops-git/github topic"
 echo "good morning"
+Hi
+Hello 
+How are You?
+Welcome
+Happy Now
