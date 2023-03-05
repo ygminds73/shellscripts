@@ -5,5 +5,4 @@ echo "Hello, How are you?"
 echo "Welcome to Young Minds"
 echo "Best class of AWS/DevOps"
 echo "We are learning git"
-echo "We are done with git"
-echo "This example is of branching strategy"
+
