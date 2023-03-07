@@ -7,11 +7,4 @@ echo "Best class of AWS/DevOps"
 sadf
 sdff
 sdd
-fs
-fsdf
-sadfsdg
-hd
-hdsgh
-fdj
-
-
+sadfasdf
