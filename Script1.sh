@@ -5,4 +5,5 @@ echo "Hello, How are you?"
 echo "Welcome to Young Minds"
 echo "Best class of AWS/DevOps"
 echo "We are learning git"
-
+this is my 1st changes in script
+hello this santy happy holi to all
