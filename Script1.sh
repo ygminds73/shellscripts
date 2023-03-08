@@ -9,6 +9,4 @@ sdff
 sdd
 sadfasdf
 sadf
-sdffsdf
-sdff
-sdff
+echo "your using reset"
