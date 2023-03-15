@@ -2,6 +2,7 @@
 #This script for load to ec2 machine and kill process with jenkins
 echo "Now we are going to install packges"
 apt update -y
+apt -get update -y
 sleep 4
 apt install httpd -y
 sleep 4
