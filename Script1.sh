@@ -4,14 +4,7 @@ echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "Welcome to Young Minds"
 echo "Best class of AWS/DevOps"
-sadf
-sdff
-sdd
-fs
-fsdf
-sadfsdg
-hd
-hdsgh
-fdj
+echo "we have a best class for aws and Devops"
+echo "This is the best pratice for Devops"
 
 
