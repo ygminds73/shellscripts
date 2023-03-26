@@ -6,5 +6,5 @@ echo "Welcome to Young Minds"
 echo "Best class of AWS/DevOps"
 echo "we have a best class for aws and Devops"
 echo "This is the best pratice for Devops"
-
+echo "we all are fine"
 
