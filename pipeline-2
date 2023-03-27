@@ -1,10 +1,40 @@
-#!/bin/bash
-#This is my 1st shell script to print output
-echo "Hello All, Welcome to AWS/Devops Class"
-echo "Hello, How are you?"
-echo "Welcome to Young Minds"
-echo "Best class of AWS/DevOps"
-echo "we have a best class for aws and Devops"
-echo "This is the best pratice for Devops"
+pipeline {
+agent (lable 'Node-1')
 
+	stages {
+		stage ('git clone & installing Nginx')
+		{
+			steps {
+				sh 'git clone https://github.com/suhas1116/shellscripts.git'
+				sh 'sudo apt install nginx -y'
+			}
+		}
+		
+		stage ('deploy-index')
+		{
+			steps {
+				sh 'sudo echo "we are going to upload our files to S3 Bucket using jenkins" > index.html'
+				sh 'sudo mv index.html /var/www/html/index.html'
+
+			}
+		}
+
+		stage ('access to shell script')
+		{
+			steps {
+				sh 'sudo chmod -R 777 shellscript'
+				sh 'sudo cp shellscript /var/www/'
+			}
+		}
+
+		stage ('running script')
+		{
+			steps {
+				sh 'bash '/var/www/shellscript/script19.sh' '
+
+			}
+		}
+		
+	}	
+}
 

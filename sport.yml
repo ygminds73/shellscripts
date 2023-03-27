@@ -1,0 +1,9 @@
+ sport:
+        - cricket:
+            sport: cricket
+            name: Sachin
+            id: 10
+       - chess:
+            sport: chess
+            name: Messi
+            id: 1 
