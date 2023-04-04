@@ -1,0 +1,40 @@
+pipeline {
+agent (lable 'Node-1')
+
+	stages {
+		stage ('git clone & installing Nginx')
+		{
+			steps {
+				sh 'git clone https://github.com/suhas1116/shellscripts.git'
+				sh 'sudo apt install nginx -y'
+			}
+		}
+		
+		stage ('deploy-index')
+		{
+			steps {
+				sh 'sudo echo "we are going to upload our files to S3 Bucket using jenkins" > index.html'
+				sh 'sudo mv index.html /var/www/html/index.html'
+
+			}
+		}
+
+		stage ('access to shell script')
+		{
+			steps {
+				sh 'sudo chmod -R 777 shellscript'
+				sh 'sudo cp shellscript /var/www/'
+			}
+		}
+
+		stage ('running script')
+		{
+			steps {
+				sh 'bash '/var/www/shellscript/script19.sh' '
+
+			}
+		}
+		
+	}	
+}
+

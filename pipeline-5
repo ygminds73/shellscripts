@@ -1,0 +1,24 @@
+pipeline{
+ agent {label 'Node-1'}
+	stages {
+	  stage ('user add') {
+		steps {
+		sh 'useradd -D $user'
+		sh 'echo " $user this user is added sucessfully " '
+}		
+}
+stage ('group add') {
+		steps {
+		sh 'sudo groupadd $group'
+		sh 'echo "$group this group is added sucessfully" '
+}		
+}
+        
+	stage ('user details & group details') {
+		steps {
+		sh 'sudo cat /etc/passwd'
+		sh 'sudo cat /etc/group'
+}		
+}				
+}
+}

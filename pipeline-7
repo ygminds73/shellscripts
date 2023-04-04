@@ -1,0 +1,26 @@
+pipeline{
+    agent {label 'Node-1'}
+    
+    stages {
+        
+        stage ('installing docker'){
+            steps{
+                sh 'sudo apt update -y'
+                sh 'sudo apt install docker.io -y'
+            }
+        }
+        stage ('calling images from docker hub'){
+            steps {
+                sh 'sudo docker search ubuntu'
+                sh 'sudo docker pull centos'
+                sh 'sudo docker images'
+            }
+        }
+        stage ('running jenkins '){
+            steps {
+            sh 'sudo docker run -d --name cont-1 -p 8080:8080 jenkins/jenkins'
+            }
+        }
+    }
+    
+}
