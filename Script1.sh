@@ -6,5 +6,12 @@ echo "Welcome to Young Minds"
 echo "Best class of AWS/DevOps"
 echo "we have a best class for aws and Devops"
 echo "This is the best pratice for Devops"
+echo "We are learning git"
+echo "We are done with git"
+echo "This example is of branching strategy"
+echo "Hello Batch-16, We are learning Git/Github"
+echo "Good Evening"
+echo "We are changing script1"
+echo "We have applied this changes in main branch"
 
 
