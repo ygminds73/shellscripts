@@ -1,0 +1,27 @@
+pipeline{
+    agent {label 'Node-1'}
+     stages {
+         stage ('installing aws cli') {
+             steps {
+                 sh 'sudo apt update -y'
+                 sh 'sudo apt install awscli -y'
+             }
+         }
+         stage ('aws s3 bucket create') {
+             steps {
+                 sh 'aws s3 mb s3://suhas-personal-data'
+                 sh 'cd /home/ubuntu/Node-1'
+             }
+         }
+         stage ('backup uploading to s3') {
+             steps {
+                 sh 'cd /home/ubuntu/Node-1/workspace'
+                 sh 'aws s3 sync . s3://suhas-personal-data'
+             }
+             
+         }
+         
+     }
+    
+    
+}

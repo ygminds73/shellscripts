@@ -1,0 +1,19 @@
+pipeline{
+    agent {label 'Node-1'}
+    stages {
+        stage ('update & create folder'){
+            steps {
+        sh 'sudo apt update -y'
+        sh 'cd /home/ubuntu/Node-1/workspace'
+            }
+    }
+    stage ('zip this file'){
+        steps {
+            sh 'cd /home/ubuntu/Node-1/workspace'
+            sh 'echo "we are taking backup of this file $backup" '
+            sh 'sudo tar -czvf $backup.tar.gz home/ubuntu/Node-1/workspace'
+            
+        }
+    }
+    }
+}
