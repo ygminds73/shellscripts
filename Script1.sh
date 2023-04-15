@@ -10,7 +10,12 @@ echo "we are learning git & git hub"
 echo "we all are the best devops engineer"
 echo "keep praticeing "
 echo "we are done with aws"
-
-
+echo "We are learning git"
+echo "We are done with git"
+echo "This example is of branching strategy"
+echo "Hello Batch-16, We are learning Git/Github"
+echo "Good Evening"
+echo "We are changing script1"
+echo "We have applied this changes in main branch"
 
 
