@@ -7,10 +7,3 @@ echo "Best class of AWS/DevOps"
 echo "We are learning git"
 echo "We are done with git"
 echo "This example is of branching strategy"
-
-hii archu hows you 
-i am fine 
-thank you!
-
-hiiiiiiiiiiiiii
-hii mom hows you 
