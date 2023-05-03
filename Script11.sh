@@ -17,4 +17,4 @@ else
  echo "None of the condition met"
 fi
 echo"my changes in github branch"
-echo"2nd try to add content"
+echo"2nd try to add content and practice"
