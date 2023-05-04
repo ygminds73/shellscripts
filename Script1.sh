@@ -10,7 +10,10 @@ echo "Welcome to devops"
 echo "We are learning git"
 echo "This batch-18"
 echo "Good morning"
+Dev-01
 echo "changes in devo 01"
 echo "hello"
 echo "london"
+echo "changes for dev2"
+main
 
