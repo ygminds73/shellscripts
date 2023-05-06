@@ -14,4 +14,8 @@ echo "changes for dev2"
 echo "I reshma learning devops"
 echo "GCP"
 echo "sub branch"
+echo "revert changes"
+echo "revert chnages 2"
+echo "revert chnages 3"
+echo "revert chnages 4"
 
