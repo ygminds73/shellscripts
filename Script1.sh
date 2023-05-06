@@ -13,5 +13,9 @@ echo "Good morning"
 echo "changes for dev2"
 echo "I reshma learning devops"
 echo "GCP"
+<<<<<<< HEAD
+=======
+echo "Hi Vaishnavi"
+>>>>>>> a12733b1f09acc0b956df0767b8e035924d01027
 
 
