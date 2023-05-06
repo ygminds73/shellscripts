@@ -7,3 +7,4 @@ then
 echo "a is greater than b"
 else
 echo "a is smaller than b"
+echo "changes for rebase"
