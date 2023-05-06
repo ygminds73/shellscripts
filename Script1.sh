@@ -12,5 +12,7 @@ echo "This batch-18"
 echo "Good morning"
 echo "changes for dev2"
 echo "I reshma learning devops"
-echi "GCP"
+echo "GCP"
+echo "Hi Vaishnavi"
+
 
