@@ -14,4 +14,8 @@ echo "changes for dev2"
 echo "I reshma learning devops"
 echo "GCP"
 echo "sub branch"
+<<<<<<< HEAD
 echo "good eveing"
+=======
+
+>>>>>>> 5d7cb16 (Revert "c1")
