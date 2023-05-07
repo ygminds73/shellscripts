@@ -18,3 +18,8 @@ echo "we are learning file"
 echo "this is to batch 18"
 echo "This batch-18"
 echo "have u done wid git"
+echo "Good morning"
+echo "Welcome to devops"
+echo "We are learning git"
+echo "This batch-18"
+echo "Good morning
