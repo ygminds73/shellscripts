@@ -12,6 +12,7 @@ val4=`expr $b / $a`
 echo "b / a : $val4"
 val5=`expr $b % $a`
 echo "b % a : $val5"
+echo "welcome pune"
 
 
 
