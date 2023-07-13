@@ -6,3 +6,4 @@ echo "Welcome to Young Minds"
 echo "Hello batch-19, We are learning Develops"
 echo "first project on Git"
 echo " Doing Practice
+echo " Hi"
