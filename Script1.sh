@@ -6,4 +6,3 @@ echo "Welcome to Young Minds"
 echo "Hello batch-19, We are learning Develops"
 echo "i am shubham i am from pune"
 echo "i have total 3 years of experience
-echo "Hii"
