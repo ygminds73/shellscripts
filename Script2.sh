@@ -6,4 +6,10 @@ echo "Value of b"
 read b
 echo "value of c"
 read c
-echo "Hello value of a is $a and value of b is $b and value of c is $c"
+echo "value of d"
+read d
+echo "Hello value of a is $a"
+echo "Hello value of a is $b"
+echo "Hello value of a is $c"
+echo "Hello value of a is $d"
+
