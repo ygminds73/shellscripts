@@ -6,3 +6,8 @@ echo "Welcome to Young Minds"
 echo "Hello batch-19, We are learning Develops"
 echo "hello guys"
 echo "learning git"
+echo "Hello All, Welcome to AWS/Devops Class"
+echo "Hello, How are you?"
+echo "Welcome to Young Minds"
+echo "My name is Rock" 
+
