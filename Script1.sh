@@ -25,3 +25,5 @@ echo "Status check"
 Hello, How are you..!
 I'm Fine what about you?
 Hey buddy
+No Yarr tomorrow we have plans
+Ok Then Bye guys...!
