@@ -17,3 +17,5 @@ echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "I'M doing this for practical purpose"
 echo "Hey How are you..!"
+
+echo "Dedicatedly for N2"
