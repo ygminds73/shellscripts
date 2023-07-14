@@ -18,3 +18,5 @@ echo "Hello, How are you?"
 echo "I'M doing this for practical purpose"
 echo "Hey How are you..!"
 echo "Dedicatedly for N1"
+
+echo "Dedicatedly for N2"
