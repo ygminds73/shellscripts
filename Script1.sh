@@ -19,3 +19,4 @@ echo "I'M doing this for practical purpose"
 echo "Hey How are you..!"
 
 echo "Dedicatedly for N2"
+echo "Status check"
