@@ -10,4 +10,6 @@ echo "Welcome to Young Minds"
 vbbjhgnbvbccg
 vbvhgkjjkkm,
 thhvnhvnjhgnbn
+who are u
+i am a student
 I am here to learn devops
