@@ -22,3 +22,5 @@ echo "Dedicatedly for N1"
 echo "Dedicatedly for N2"
 confirmation
 echo "Status check"
+Hello, How are you..!
+I'm Fine what about you?
