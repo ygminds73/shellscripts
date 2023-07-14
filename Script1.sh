@@ -10,3 +10,5 @@ echo "Welcome to Young Minds"
 vbbjhgnbvbccg
 vbvhgkjjkkm,
 thhvnhvnjhgnbn
+who are u
+i am a student
