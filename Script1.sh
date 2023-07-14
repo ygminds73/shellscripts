@@ -21,3 +21,4 @@ echo "Dedicatedly for N1"
 
 echo "Dedicatedly for N2"
 echo "Status check"
+Raw check
