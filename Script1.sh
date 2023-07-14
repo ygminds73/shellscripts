@@ -7,9 +7,5 @@ echo "Hello batch-19, We are learning Develops"
 echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "Welcome to Young Minds"
-vbbjhgnbvbccg
-vbvhgkjjkkm,
-thhvnhvnjhgnbn
-who are u
-i am a student
-I am here to learn devops
+echo "my name is priya karmankar"
+echo "devops engineer"
