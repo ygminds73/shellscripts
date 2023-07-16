@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "hello guys"
+echo "good evening"
+echo "morning"
