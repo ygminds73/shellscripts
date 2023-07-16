@@ -11,4 +11,11 @@ echo "My name is Rock"
 echo "Hello batch-19"
 echo "The best way to learn DevOps"
 Hi Dico
+
 Hi I am going to change by terminal in branch Practical
+=======
+Hi
+Helod
+Kya
+Kaun
+
