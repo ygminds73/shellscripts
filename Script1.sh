@@ -10,3 +10,4 @@ echo "Welcome to Young Minds"
 echo "My name is Rock" 
 echo "Hello batch-19"
 echo "The best way to learn DevOps"
+Hi Dico
