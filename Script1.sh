@@ -8,3 +8,4 @@ echo "Hello, how are you?"
 echo "we are learning shells script"
 echo "Hello, how are you?"
 echo "Now we will face merge"
+
