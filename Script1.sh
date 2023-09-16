@@ -8,3 +8,6 @@ echo "Hello Batch-20"
 echo "Hi this is my first change of git"
 echo "HI this change is made in feature-1 branch"
 echo "We are learning branch stratergies"
+#Here we have fixed the bug and we are sure that system is working fine. 
+echo "HI this change is made in feature-1 branch"
+echo "We are learning branch stratergies"
