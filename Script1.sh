@@ -3,4 +3,4 @@
 echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "Welcome to Young Minds"
-echo "hello batch-20"
+echo "hello batch-20 git"
