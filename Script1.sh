@@ -1,8 +1,8 @@
-#!/bin/bash
+I#!/bin/bash
 #This is my 1st shell script to print output
 echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "Welcome to Young Minds"
 echo "Hello batch-19, We are learning Develops"
 echo "Hello, This id for test"
-echo "Hello I am in Kedar2"
+echo "Hello I am Kedar from EC2"
