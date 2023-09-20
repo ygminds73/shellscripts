@@ -3,4 +3,7 @@
 echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "Welcome to Young Minds"
-echo "Hello batch-19, We are learning Develops"
+echo "hello batch-20 git"
+echo "wife:lets travel matheran"
+echo "husband:no lets travel matheran next month"
+echo "wife:no"
