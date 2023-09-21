@@ -6,3 +6,5 @@ echo "Value of b"
 read b
 echo "Hello value of a is $a and value of b is $b"
 echo "We are performing this practical for batch-20"
+echo "Script 2 is being tested"
+echo "Check and finalise"
