@@ -1,5 +1,6 @@
 #!/bin/bash
 #this script is for if-elif-fi
+echo "conflict"
 echo "Please enter value of a"
 read a
 echo "Please enter vaule of b"
