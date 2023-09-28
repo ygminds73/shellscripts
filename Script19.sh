@@ -1,1 +1,1 @@
-new script
+echo "Script 19 is incomplete"
