@@ -1,1 +1,1 @@
-echo "Script 19 is incomplete"
+echo "Script 19 is incomplete and emty "
