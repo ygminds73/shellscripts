@@ -4,6 +4,7 @@ echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "This is PQR brach and trying to create merge conflict"
 echo "delete this line"
+
 echo "Welcome to Young Minds"
 
 echo "Now merge conflict should get created"
