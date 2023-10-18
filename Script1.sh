@@ -7,5 +7,5 @@ echo "Best class of AWS/DevOps"
 echo "Hello Team"
 echo "My name is Khan"
 echo "Welcome to devops"
-echo "Good morning"
+echo "Hi All"
 
