@@ -6,3 +6,6 @@ echo "Welcome to Young Minds"
 echo "Hello batch-20, We are learning Jenkins"
 echo "Jack"
 echo "How are you"
+echo"good bye"
+echo"good"
+
