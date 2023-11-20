@@ -7,3 +7,4 @@ echo "This is my system path $PATH"
 export JDK_HOME=/bin/jdk
 echo "my new JDK home is=$JDK_HOME"
 echo "Shubham is making changes in SCRIPT3.sh for the first time"
+echo "Shubham is making changes in SCRIPT3.sh for the Second time with corrections marked"
