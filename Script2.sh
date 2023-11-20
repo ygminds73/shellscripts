@@ -1,6 +1,6 @@
 #!/bin/bash
 #This script is to read input from the user/console
-echo "Value of a"
+echo "Value of aa"
 read a
 echo "Value of b"
 read b
