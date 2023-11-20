@@ -27,4 +27,4 @@ then
 else
  echo "None of the condition met"
 fi
-
+echo "this is added from ubuntu machine"
