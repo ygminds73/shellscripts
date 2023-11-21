@@ -27,4 +27,4 @@ then
 else
  echo "None of the condition met"
 fi
-
+echo" hello  team we are practising git "
