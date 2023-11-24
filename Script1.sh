@@ -5,5 +5,5 @@ echo "Hello, How are you?"
 echo "Welcome to Young Minds"
 echo "Hello batch-21, We are learning Jenkins"
 echo "hello Team, How are you?"
-echo "Created a new branch!"
+echo "Pull and merge request!"
 
