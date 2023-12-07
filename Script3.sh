@@ -6,4 +6,4 @@ echo "This is my system path $PATH"
 #Set a JDK_HOME env variable
 export JDK_HOME=/bin/jdk
 echo "my new JDK home is=$JDK_HOME"
-echo "hello, nidhi... please be serious about your carrier instead of focusing on other things"
+echo "hello, nidhi... please be serious about your carrier "
