@@ -7,3 +7,4 @@ read b
 echo "Hello value of a is $a and value of b is $b"
 echo "We are performing this practical for batch-20"
 echo "hi gm"
+echo "good night"
