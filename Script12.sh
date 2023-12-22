@@ -24,7 +24,8 @@ then
 else
  echo "-z $a : string length is not zero"
 fi
-
+if [a=b]
+then echo "hi"
 
 if [ -n $a ]
 then
