@@ -3,4 +3,5 @@
 echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "We are learning Git"
-echo "hello"
+echo "we create brnch and push code"
+echo "practice branching"
