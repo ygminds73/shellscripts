@@ -7,5 +7,5 @@ echo "Hello batch-19, We are learning Develops"
 echo "Hello Batch-20"
 echo "This is for testing purpose"
 echo "Hello here I'm learning merge conflicts"
-echo "lets test and check conflict will occur or not"
+echo "I'm trying to solve the problem"
 
