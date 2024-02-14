@@ -1,3 +1,10 @@
 #!/bin/bash
-hello world 
-hello good morning 
+
+// Your First C++ Program
+
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}
