@@ -7,11 +7,8 @@ echo "This is my system path $PATH"
 export JDK_HOME=/bin/jdk
 echo "my new JDK home is=$JDK_HOME"
 
-fdsf
+
 #jenkins code is written in java.
+wefwgit stash
 
-
-jjlfylylyic
-hllh
-glhlhy
-bjklvkjk
+uygycuga
