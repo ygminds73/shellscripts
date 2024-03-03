@@ -7,3 +7,5 @@ read b
 echo "Hello value of a is $a and value of b is $b"
 echo "Welcome to DevOps"
 echo "Value of 1"
+#This script is to read input from the user/console
+#eof
