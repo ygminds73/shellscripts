@@ -7,6 +7,6 @@ rehgczhxv hgv git
 echo "Hello value of a is $a and value of b is $b"
 echo "Welcome to DevOps"
 echo "Value of 1"
-#This script is to read input from the user/console
-#
+#this is not good things
 eof
+
