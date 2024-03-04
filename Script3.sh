@@ -7,3 +7,4 @@ echo "This is my system path $PATH"
 export JDK_HOME=/bin/jdk
 echo "my new JDK home is=$JDK_HOME"
 #we are cheking git branching strategy
+#now we added new branch from visual studio and try to add it on git
