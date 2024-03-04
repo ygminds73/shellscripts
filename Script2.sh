@@ -3,5 +3,4 @@
 echo "Value of a
 hello guys
 echo "Value of b"
-rehgczhxv hgv git
-this feature 3 addinfg line no 7
+
