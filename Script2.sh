@@ -4,7 +4,4 @@ echo "Value of a"
 read a
 echo "Value of b"
 read b
-echo "Hello value of a is $a and value of b is $b"
-echo "Welcome to DevOps"
-echo "happy good friday"
-echo 
+echo "Hello value of a is $a and value of b is $
