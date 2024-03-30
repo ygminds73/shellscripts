@@ -6,5 +6,5 @@ echo "We are learning Git"
 echo "We are trying this practical from linux EC2"
 echo "We are from batch-23 and learning git/gihub"
 echo "Happy good friday"
-echo "i am in trial level"
-
+# echo "i am in trial level"
+echo"this is my 2d trial using ui"
