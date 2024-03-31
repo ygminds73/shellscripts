@@ -7,4 +7,5 @@ then
 echo "a is greater than b"
 else
 echo "a is smaller than b"
+echo " but a is happy than b"
 fi
