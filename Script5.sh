@@ -4,3 +4,4 @@ NAME=Young-Minds
 readonly NAME
 NAME=DEVOPS
 echo "my name is: $NAME"
+echo "This is my 5th script practice chenge"
