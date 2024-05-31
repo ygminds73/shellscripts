@@ -4,9 +4,7 @@ echo "Happy weekend"
 echo "Hello batch-24, We are learning git"
 echo "Please complete your practicals on daily basis"
 echo "hello friends"
-echo "This is my 2nd Practical"
-echo "this is my 4rt practical"
-echo " I am Learning Devops"
+
 
 
 
