@@ -7,7 +7,6 @@ echo "hello friends"
 echo "This is my 2nd Practical"
 echo "this is my 4rt practical"
 echo " I am Learning Devops"
-echo " I am Learning AWS"
-echo " Please Complete your study"
+
 
 
