@@ -4,6 +4,5 @@ echo "Happy weekend"
 echo "Hello batch-24, We are learning git"
 echo "Please complete your practicals on daily basis"
 echo "How are you?"
-echo "Hi"
 echo "Wife :i dont want to go trip"
 
