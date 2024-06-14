@@ -6,6 +6,8 @@ echo "Please complete your practicals on daily basis"
 echo "How are you?"
 echo "Hi"
 echo "Hello"
+echo "Husband: I dont want to go trip"
+
 
 
 
