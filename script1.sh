@@ -6,5 +6,7 @@ echo "Husband: I don't want to travel"
 echo "Wife: I want to travel"
 echo "i want to become aws devops engineer"
 echo "let's play ludo"
+echo "play on playground"
+echo "outdoor games are more benifical for health"
 
 

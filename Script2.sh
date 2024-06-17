@@ -7,3 +7,5 @@ read b
 echo "Hello value of a is $a and value of b is $b"
 echo "value of a is greater than value of b"
 echo "but value of c is smaller than a"
+echo "do practice regulare basis"
+echo "practice makes man perfect"
