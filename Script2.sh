@@ -4,5 +4,9 @@ echo "Value of a"
 read a
 echo "Value of b"
 read b
-echo "Hello value of a is $a and value of b is $b"
+echo "hello there whats going on"
+echo "hello world"
+echo "We are creating this change to test merg conflict"
+echo "this is another branch with another user"
+
 
