@@ -5,4 +5,8 @@ read a
 echo "Value of b"
 read b
 echo "Hello value of a is $a and value of b is $b"
+echo "hello world"
+echo "hello dear son"
+echo "create repo"
+
 

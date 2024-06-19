@@ -8,4 +8,6 @@ echo "Hi github technology"
 echo "this is anjali patil"
 echo "I want to learn github"
 echo "Github is platform for all IT"
+echo "We are using features"
+echo "hello there"
 
