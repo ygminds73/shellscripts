@@ -6,7 +6,7 @@ echo "Value of b"
 read b
 echo "hello there whats going on"
 echo "hello world"
-echo "hello dear teddy bear"
-echo "create repository"
+echo "We are creating this change to test merg conflict"
+echo "this is another branch with another user"
 
 
