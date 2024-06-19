@@ -6,4 +6,6 @@ echo "Husband: I don't want to travel"
 echo "Wife: I want to travel"
 echo "Good morning india"
 echo "what's going on"
+echo "git branch statement"
+echo "i want to learn gitbash"
 
