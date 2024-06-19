@@ -7,4 +7,5 @@ echo "Wife: I want to travel"
 echo "Hi github technology"
 echo "this is anjali patil"
 echo "I want to learn github"
+echo "Github is platform for all IT"
 
