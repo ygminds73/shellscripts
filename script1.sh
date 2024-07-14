@@ -7,6 +7,7 @@ echo "Wife: I want to travel"
 echo "this is script from ygminds"
 echo "hii welcome to ygminds"
 echo "welcom to home"
-
+echo "this is my practice in devops"
+echo "and this is my 2nd feature branch"
 
 
