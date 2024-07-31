@@ -4,5 +4,8 @@ echo "Happy weekend"
 echo "We are learning git"
 echo "Husband: I don't want to travel"
 echo "Wife: I want to travel"
+echo "I am messy"
+echo "Thank you for listening"
+
 
 
