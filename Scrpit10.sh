@@ -8,3 +8,7 @@ echo "a is greater than b"
 else
 echo "a is smaller than b"
 fi
+echo "a is greather than b"
+else
+echo "a is smaller than b" 
+fi
