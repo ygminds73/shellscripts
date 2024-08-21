@@ -1,6 +1,6 @@
 #!/bin/bash
-a=10
-b=20
+a=50
+b=55 echo "None of the condition met"
 
 val1=`expr $a + $b`
 echo "a + b : $val1"
@@ -26,5 +26,6 @@ then
  echo "a is less than b"
 else
  echo "None of the condition met"
+  echo "None of the condition met"
 fi
 
