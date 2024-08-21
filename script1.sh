@@ -1,6 +1,3 @@
 echo "We are trying this practical from linux EC2"
 echo "We are from batch-25 and learning git/gihub"
-echo "We are learning Git/Github"
 echo "we are learning devops"
-echo "good evining all of you"
-echo "hello team new git changes code"
