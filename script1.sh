@@ -1,7 +1,11 @@
 echo "We are trying this practical from linux EC2"
 echo "We are from batch-25 and learning git/gihub"
+
 echo "We are learning Git/Github"
 echo "This is in my Remote Repo"
 echo "This is Ashish Gordea Repo"
+echo "We are learning Branhcing"
+echo "I am learning Devops"
+echo "I am learning Git"
 
 
