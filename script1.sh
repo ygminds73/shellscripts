@@ -4,5 +4,5 @@ echo "We are learning Branhcing"
 echo "I am learning Devops"
 echo "I am learning Git"
 echo "i am learning cloud"
-echo "bye take care"
+echo "bye take care cu"
  
