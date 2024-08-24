@@ -4,4 +4,5 @@ echo "We are learning Git/Github"
 echo "good morning everyone"
 echo "Thank you"
 echo "we are learning branching"
+echo "welcome"
 
