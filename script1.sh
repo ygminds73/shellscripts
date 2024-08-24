@@ -6,5 +6,3 @@ echo "Thank you"
 echo "we are learning branching"
 echo "welcome to ygminds"
 echo "git/github"
-
-
