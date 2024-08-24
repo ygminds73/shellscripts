@@ -1,3 +1,4 @@
-echo "We are trying this practical from linux EC2"
-echo "We are from batch-25 and learning git/gihub"
-echo "Hello Pooja"
+Hi
+Good Morning
+How are you ?
+Wife : I want to travel
