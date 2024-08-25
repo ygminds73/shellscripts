@@ -1,5 +1,6 @@
 echo "Good Morning"
 echo "Welcome"
+echo "I am Pratik"
 echo "We are trying this practical from linux EC2"
 echo "We are from batch-25 and learning git/gihub"
 echo "we are trying practical from Linux"
