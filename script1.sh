@@ -7,4 +7,4 @@ echo "Wife: I want to travel"
 echo "hello gm morning"
 echo "bye"
 echo "hie hie"
-
+echo "todays date is 26 aug 2024"
