@@ -1,11 +1,2 @@
 echo "We are trying this practical from linux EC2"
-echo "We are from batch-24 and learning git/gihub"
-echo "Happy weekend"
-echo "We are learning git"
-echo "Husband: I don't want to travel"
-echo "Wife: I want to travel"
-echo "hello gm morning"
-echo "bye"
-echo "hie hie"
-echo "todays date is 26 aug 2024"
-echo "mg ksa kay bhau bara ahe ka"
+
