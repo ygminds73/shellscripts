@@ -28,3 +28,5 @@ else
  echo "None of the condition met"
 fi
 
+echo "we are testing a M1"
+
