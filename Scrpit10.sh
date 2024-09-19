@@ -9,4 +9,6 @@ else
 echo "a is smaller than b"
 else
 echo "a is equal to b"
+else
+echo "a is not eqaual and greater than b"
 fi
