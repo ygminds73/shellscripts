@@ -5,3 +5,4 @@ echo $?
 echo "here if the value is 0 this command is sucessful"
 echo "I am learning github"
 echo "I am learning devops"
+echo "I am learning AWS"
