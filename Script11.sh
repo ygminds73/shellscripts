@@ -18,3 +18,13 @@ else
 fi
 
 echo "I have changed this branch"
+
+elif [ $a -lt $b ]
+then
+ echo "a is less than b"
+else
+ echo "None of the condition met"
+fi
+
+echo "I have changed this branch"
+hii
