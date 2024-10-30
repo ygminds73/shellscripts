@@ -18,3 +18,8 @@ else
 fi
 
 echo "I have changed this branch"
+
+fi
+
+echo "I have changed this branch"
+
