@@ -5,4 +5,5 @@ echo "batch"
 echo "hello"
 echo "batch"
 echo "hello"
+echo "hello"
 
