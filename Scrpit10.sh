@@ -8,7 +8,6 @@ echo "a is greater than b"
 else
 echo "a is smaller than b"
 fi
-echo " Hi Tom,What are you doing ? "
-mkdir onkar
-cd onkar
-vim text.
+
+echo "Kolhapur is very big city"
+echo "We are maharashtrian"
